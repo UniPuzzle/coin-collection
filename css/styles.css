@@ -1,0 +1,183 @@
+/* ==========itr_coin_wrap============= */
+.wrap {
+  display: flex;
+}
+
+.itr_coin_wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 287px;
+  /* border-radius: 15px 15px 0 0;
+  background-color: #1a385e; */
+}
+
+.itr_coin--width {
+  display: flex;
+  width: 120px;
+  height: 150px;
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+@media screen and (min-width: 640px) {
+  .itr_coin--width {
+    width: 200px;
+    height: 250px;
+  }
+}
+
+.itr_coin_elem {
+  position: absolute;
+  display: flex;
+  width: 25%;
+  height: auto;
+}
+.itr_coin_img {
+  width: 100%;
+  height: auto;
+}
+
+.itr_coin_1 {
+  top: 12%;
+  left: 70%;
+}
+
+.itr_coin_2 {
+  top: 12%;
+  left: 37.5%;
+}
+
+.itr_coin_3 {
+  top: 12%;
+  left: 5%;
+}
+
+.itr_coin_4 {
+  top: 38%;
+  left: 5%;
+}
+
+.itr_coin_5 {
+  top: 64%;
+  left: 5%;
+}
+
+.itr_coin_6 {
+  top: 64%;
+  left: 37.5%;
+}
+
+.itr_coin_7 {
+  top: 64%;
+  left: 70%;
+}
+
+.itr_coin_8 {
+  top: 38%;
+  left: 70%;
+}
+
+/* ======================================= */
+
+/* ==========arrow_down========== */
+
+.arrow_down_1 {
+  top: 16%;
+  left: 37.9%;
+}
+.arrow_down_2 {
+  top: 30.1%;
+  left: 20.2%;
+}
+.arrow_down_3 {
+  top: 30.1%;
+  left: 55.6%;
+}
+.arrow_down_4 {
+  top: 44%;
+  left: 2.5%;
+}
+.arrow_down_5 {
+  top: 44%;
+  left: 38%;
+}
+.arrow_down_6 {
+  top: 44%;
+  left: 73.5%;
+}
+.arrow_down_7 {
+  top: 64%;
+  left: 38%;
+}
+
+/* =========move-the-dot======== */
+.img {
+  width: 77%;
+  /* height: 170px; */
+  top: 48px;
+  left: 22.8px;
+  position: absolute;
+}
+.move-the-dot_1 {
+  top: 20%;
+  left: 38%;
+}
+.move-the-dot_2 {
+  top: 20%;
+  left: 63%;
+}
+.move-the-dot_3 {
+  top: 40%;
+  left: 63%;
+}
+.move-the-dot_4 {
+  top: 40%;
+  left: 38%;
+}
+.move-the-dot_5 {
+  top: 60.5%;
+  left: 12.5%;
+}
+
+/* ==========l-tetromino-flip=========== */
+
+.l-tetromino-flip_1 {
+  top: 20%;
+  left: 25%;
+}
+
+.l-tetromino-flip_2 {
+  top: 40%;
+  left: 25%;
+}
+.l-tetromino-flip_3 {
+  top: 60%;
+  left: 25%;
+}
+.l-tetromino-flip_4 {
+  top: 60%;
+  left: 50%;
+}
+
+/* =========s-tetromino-flip========= */
+
+.s-tetromino-flip_1 {
+  top: 20%;
+  left: 25%;
+}
+
+.s-tetromino-flip_2 {
+  top: 40%;
+  left: 25%;
+}
+.s-tetromino-flip_3 {
+  top: 40%;
+  left: 50%;
+}
+.s-tetromino-flip_4 {
+  top: 60%;
+  left: 50%;
+}
