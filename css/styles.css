@@ -1,14 +1,17 @@
 /* ==========itr_coin_wrap============= */
 .wrap {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .itr_coin_wrap {
   position: relative;
   display: flex;
-  align-items: center;
-  width: 100%;
-  height: 287px;
+  /* align-items: center; */
+  /* width: 100%; */
+  margin: 20px;
+  /* height: 287px; */
   /* border-radius: 15px 15px 0 0;
   background-color: #1a385e; */
 }
@@ -17,7 +20,8 @@
   display: flex;
   width: 120px;
   height: 150px;
-  background-color: red;
+  /* background-color: red; */
+  background-color: #273763;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -178,6 +182,127 @@
   left: 50%;
 }
 .s-tetromino-flip_4 {
+  top: 60%;
+  left: 50%;
+}
+
+/* =========sailing-east========= */
+
+.sailing-east_1 {
+  top: 0%;
+  left: 38%;
+}
+.sailing-east_2 {
+  top: 20%;
+  left: 38%;
+}
+.sailing-east_3 {
+  top: 20%;
+  left: 13%;
+}
+.sailing-east_4 {
+  top: 40%;
+  left: 13%;
+}
+.sailing-east_5 {
+  top: 40%;
+  left: 38%;
+}
+.sailing-east_6 {
+  top: 60%;
+  left: 38%;
+}
+.sailing-east_7 {
+  top: 62.5%;
+  left: 1%;
+}
+.sailing-east_8 {
+  top: 80%;
+  left: 13%;
+}
+.sailing-east_9 {
+  top: 80%;
+  left: 38%;
+}
+.sailing-east_10 {
+  top: 80%;
+  left: 63%;
+}
+.sailing-east_11 {
+  top: 62.5%;
+  left: 75%;
+}
+
+/* ========sailing-west========= */
+
+.sailing-west_1 {
+  top: 0%;
+  left: 38%;
+}
+.sailing-west_2 {
+  top: 20%;
+  left: 38%;
+}
+.sailing-west_3 {
+  top: 20%;
+  left: 63%;
+}
+.sailing-west_4 {
+  top: 40%;
+  left: 63%;
+}
+.sailing-west_5 {
+  top: 40%;
+  left: 38%;
+}
+.sailing-west_6 {
+  top: 60%;
+  left: 38%;
+}
+.sailing-west_7 {
+  top: 62.5%;
+  left: 1%;
+}
+.sailing-west_8 {
+  top: 80%;
+  left: 13%;
+}
+.sailing-west_9 {
+  top: 80%;
+  left: 38%;
+}
+.sailing-west_10 {
+  top: 80%;
+  left: 63%;
+}
+.sailing-west_11 {
+  top: 62.5%;
+  left: 75%;
+}
+
+/* =========the-vase========= */
+
+.the-vase_1 {
+  top: 20%;
+  left: 25%;
+}
+.the-vase_2 {
+  top: 20%;
+  left: 50%;
+}
+.the-vase_3 {
+  top: 40%;
+  left: 25%;
+}
+.the-vase_4 {
+  top: 40%;
+  left: 50%;
+}
+.the-vase_5 {
+  top: 60%;
+  left: 25%;
+}
+.the-vase_6 {
   top: 60%;
   left: 50%;
 }
