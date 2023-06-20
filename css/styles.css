@@ -716,3 +716,468 @@ p {
   top: 70%;
   left: 59.5%;
 }
+
+/* ==========unboxing-the-tree========= */
+
+.unboxing-the-tree_1 {
+  top: 20%;
+  left: 38%;
+}
+.unboxing-the-tree_2 {
+  top: 30%;
+  left: 60%;
+}
+.unboxing-the-tree_3 {
+  top: 50%;
+  left: 60%;
+}
+.unboxing-the-tree_4 {
+  top: 60%;
+  left: 38%;
+}
+.unboxing-the-tree_5 {
+  top: 50%;
+  left: 16%;
+}
+.unboxing-the-tree_6 {
+  top: 30%;
+  left: 16%;
+}
+.unboxing-the-tree_7 {
+  top: 40%;
+  left: 38%;
+}
+
+/* ==========flip-angle========== */
+
+.flip-angle_1 {
+  top: 11%;
+  left: 25%;
+}
+.flip-angle_2 {
+  top: 28%;
+  left: 38%;
+}
+.flip-angle_3 {
+  top: 48%;
+  left: 38%;
+}
+.flip-angle_4 {
+  top: 68%;
+  left: 38%;
+}
+
+/* ==========c-dot======== */
+
+.c-dot_1 {
+  top: 20%;
+  left: 50%;
+}
+.c-dot_2 {
+  top: 20%;
+  left: 25%;
+}
+.c-dot_3 {
+  top: 20%;
+  left: 0%;
+}
+.c-dot_4 {
+  top: 40%;
+  left: 0%;
+}
+.c-dot_5 {
+  top: 60%;
+  left: 0%;
+}
+.c-dot_6 {
+  top: 60%;
+  left: 25%;
+}
+.c-dot_7 {
+  top: 60%;
+  left: 50%;
+}
+.c-dot_8 {
+  top: 60%;
+  left: 80%;
+}
+
+/* ============nine-to-zero=========== */
+
+.nine-to-zero_1 {
+  top: 10%;
+  left: 60%;
+}
+.nine-to-zero_2 {
+  top: 0%;
+  left: 38%;
+}
+.nine-to-zero_3 {
+  top: 10%;
+  left: 16%;
+}
+.nine-to-zero_4 {
+  top: 30%;
+  left: 16%;
+}
+.nine-to-zero_5 {
+  top: 40%;
+  left: 38%;
+}
+.nine-to-zero_6 {
+  top: 30%;
+  left: 60%;
+}
+.nine-to-zero_7 {
+  top: 50%;
+  left: 60%;
+}
+.nine-to-zero_8 {
+  top: 70%;
+  left: 60%;
+}
+.nine-to-zero_9 {
+  top: 80%;
+  left: 38%;
+}
+.nine-to-zero_10 {
+  top: 70%;
+  left: 16%;
+}
+
+/* ==========dollar-to-euro============ */
+
+.dollar-to-euro_1 {
+  top: 4.5%;
+  left: 50%;
+}
+.dollar-to-euro_2 {
+  top: 4.5%;
+  left: 25%;
+}
+.dollar-to-euro_3 {
+  top: 22%;
+  left: 13%;
+}
+.dollar-to-euro_4 {
+  top: 39.7%;
+  left: 25%;
+}
+.dollar-to-euro_5 {
+  top: 39.7%;
+  left: 50%;
+}
+.dollar-to-euro_6 {
+  top: 57.6%;
+  left: 62%;
+}
+.dollar-to-euro_7 {
+  top: 75.5%;
+  left: 50%;
+}
+.dollar-to-euro_8 {
+  top: 75.5%;
+  left: 25%;
+}
+
+/* ============x-coin-challenge========== */
+
+.x-coin-challenge_1 {
+  top: 23%;
+  left: 25.5%;
+}
+.x-coin-challenge_2 {
+  top: 23%;
+  left: 50.5%;
+}
+.x-coin-challenge_3 {
+  top: 40%;
+  left: 38%;
+}
+.x-coin-challenge_4 {
+  top: 57.4%;
+  left: 25.5%;
+}
+.x-coin-challenge_5 {
+  top: 57.4%;
+  left: 50.5%;
+}
+
+/* ==========cup-to-bowl========== */
+
+.cup-to-bowl_1 {
+  top: 30%;
+  left: 12%;
+}
+.cup-to-bowl_2 {
+  top: 50%;
+  left: 12%;
+}
+.cup-to-bowl_3 {
+  top: 50%;
+  left: 37%;
+}
+.cup-to-bowl_4 {
+  top: 50%;
+  left: 62%;
+}
+.cup-to-bowl_5 {
+  top: 30%;
+  left: 62%;
+}
+
+/* ===========up-and-down=========== */
+
+.up-and-down_1 {
+  top: 23%;
+  left: 37.5%;
+}
+.up-and-down_2 {
+  top: 40%;
+  left: 25%;
+}
+.up-and-down_3 {
+  top: 40%;
+  left: 50%;
+}
+.up-and-down_4 {
+  top: 57.5%;
+  left: 12.5%;
+}
+.up-and-down_5 {
+  top: 57.5%;
+  left: 37.5%;
+}
+.up-and-down_6 {
+  top: 57.5%;
+  left: 62.5%;
+}
+
+/* ===========growing-the-tree============ */
+
+.growing-the-tree_1 {
+  top: 20%;
+  left: 12%;
+}
+.growing-the-tree_2 {
+  top: 20%;
+  left: 37%;
+}
+.growing-the-tree_3 {
+  top: 20%;
+  left: 62%;
+}
+.growing-the-tree_4 {
+  top: 40%;
+  left: 62%;
+}
+.growing-the-tree_5 {
+  top: 60%;
+  left: 62%;
+}
+.growing-the-tree_6 {
+  top: 60%;
+  left: 37%;
+}
+.growing-the-tree_7 {
+  top: 60%;
+  left: 12%;
+}
+.growing-the-tree_8 {
+  top: 40%;
+  left: 12%;
+}
+
+/* =============unlock-the-key-part-2============ */
+
+.unlock-the-key-part-2_1 {
+  top: 12%;
+  left: 37.5%;
+}
+.unlock-the-key-part-2_2 {
+  top: 25.3%;
+  left: 55.6%;
+}
+.unlock-the-key-part-2_3 {
+  top: 39.5%;
+  left: 73.5%;
+}
+.unlock-the-key-part-2_4 {
+  top: 53.5%;
+  left: 55.6%;
+}
+.unlock-the-key-part-2_5 {
+  top: 67%;
+  left: 37.5%;
+}
+.unlock-the-key-part-2_6 {
+  top: 53.5%;
+  left: 19%;
+}
+.unlock-the-key-part-2_7 {
+  top: 39.5%;
+  left: 1.5%;
+}
+.unlock-the-key-part-2_8 {
+  top: 25.3%;
+  left: 19%;
+}
+
+/* =========unlock-the-key-part-1=========== */
+
+.unlock-the-key-part-1_1 {
+  top: 20%;
+  left: 12%;
+}
+.unlock-the-key-part-1_2 {
+  top: 20%;
+  left: 37%;
+}
+.unlock-the-key-part-1_3 {
+  top: 20%;
+  left: 62%;
+}
+.unlock-the-key-part-1_4 {
+  top: 40%;
+  left: 62%;
+}
+.unlock-the-key-part-1_5 {
+  top: 60%;
+  left: 62%;
+}
+.unlock-the-key-part-1_6 {
+  top: 60%;
+  left: 37%;
+}
+.unlock-the-key-part-1_7 {
+  top: 60%;
+  left: 12%;
+}
+.unlock-the-key-part-1_8 {
+  top: 40%;
+  left: 12%;
+}
+
+/* =========the-chevron-challenge========== */
+
+.the-chevron-challenge_1 {
+  top: 19%;
+  left: 38%;
+}
+.the-chevron-challenge_2 {
+  top: 33.2%;
+  left: 20%;
+}
+.the-chevron-challenge_3 {
+  top: 33.2%;
+  left: 56%;
+}
+.the-chevron-challenge_4 {
+  top: 47%;
+  left: 38%;
+}
+.the-chevron-challenge_5 {
+  top: 61%;
+  left: 20%;
+}
+.the-chevron-challenge_6 {
+  top: 61%;
+  left: 56%;
+}
+
+/* ==========revealing-the-pyramid========== */
+
+.revealing-the-pyramid_1 {
+  top: 23%;
+  left: 25.5%;
+}
+.revealing-the-pyramid_2 {
+  top: 23%;
+  left: 50.5%;
+}
+.revealing-the-pyramid_3 {
+  top: 40%;
+  left: 13%;
+}
+.revealing-the-pyramid_4 {
+  top: 40%;
+  left: 38%;
+}
+.revealing-the-pyramid_5 {
+  top: 40%;
+  left: 63%;
+}
+.revealing-the-pyramid_6 {
+  top: 57%;
+  left: 25.5%;
+}
+.revealing-the-pyramid_7 {
+  top: 57%;
+  left: 50.5%;
+}
+
+/* ==========uncovering-octagon========= */
+
+.uncovering-octagon_1 {
+  top: 21%;
+  left: 24%;
+}
+.uncovering-octagon_2 {
+  top: 21%;
+  left: 49%;
+}
+.uncovering-octagon_3 {
+  top: 38.5%;
+  left: 12%;
+}
+.uncovering-octagon_4 {
+  top: 38.5%;
+  left: 37%;
+}
+.uncovering-octagon_5 {
+  top: 38.5%;
+  left: 62%;
+}
+.uncovering-octagon_6 {
+  top: 58.5%;
+  left: 12%;
+}
+.uncovering-octagon_7 {
+  top: 58.5%;
+  left: 37%;
+}
+.uncovering-octagon_8 {
+  top: 58.5%;
+  left: 62%;
+}
+
+/* =========house-downsizing========== */
+
+.house-downsizing_1 {
+  top: 13%;
+  left: 36.6%;
+}
+.house-downsizing_2 {
+  top: 30%;
+  left: 24%;
+}
+.house-downsizing_3 {
+  top: 30%;
+  left: 49%;
+}
+.house-downsizing_4 {
+  top: 47.5%;
+  left: 12%;
+}
+.house-downsizing_5 {
+  top: 47.5%;
+  left: 61.5%;
+}
+.house-downsizing_6 {
+  top: 67.5%;
+  left: 12%;
+}
+.house-downsizing_7 {
+  top: 67.5%;
+  left: 61.5%;
+}
