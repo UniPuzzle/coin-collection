@@ -1,0 +1,24 @@
+
+<puzzle id="MTC" class="sqm.matchsticks">
+	<challenge id="99">
+		<date>2021.05.02.07.53.56</date>
+	<designer>
+		<name type="author" id="SGS">Serhiy Grabarchuk Jr</name>
+	</designer>
+		<title>0 = IV</title>
+		<setup goal="image:generate">
+			<rules type="text"> 
+                Move one matchstick to get a correct equation.
+			</rules>
+            <piece id="1" base="0" rotation="0" meet_ends="0,1" shift="0,0"/>
+						<piece id="2" base="1" rotation="90" meet_ends="1,0" shift="0,0"/>
+						<piece id="3" base="2" rotation="180" meet_ends="1,0" shift="0,0"/>
+						<piece id="4" base="3" rotation="270" meet_ends="1,0" shift="0,0"/>
+						<piece id="5" base="4" rotation="90" meet_ends="0,0" shift="0.3,-0.5"/>
+						<piece id="6" base="5" rotation="90" meet_ends="0,0" shift="0,0.2"/>
+						<piece id="7" base="3" rotation="0" meet_ends="0,1" shift="1.6,0"/>
+						<piece id="8" base="7" rotation="345" meet_ends="0,0" shift="0.5,0"/>
+						<piece id="9" base="8" rotation="15" meet_ends="0,0" shift="0,0"/> 
+	   </setup>
+	</challenge>
+</puzzle> 

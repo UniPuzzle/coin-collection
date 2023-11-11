@@ -1,0 +1,40 @@
+.the-un-challenge-img-src_1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/1euro.png);
+}
+
+.the-un-challenge_1 {
+  top: 20%;
+  left: 12.5%;
+}
+.the-un-challenge_2 {
+  top: 40%;
+  left: 12.5%;
+}
+.the-un-challenge_3 {
+  top: 60%;
+  left: 12.5%;
+}
+.the-un-challenge_4 {
+  top: 60%;
+  left: 37.5%;
+}
+.the-un-challenge_5 {
+  top: 60%;
+  left: 62.3%;
+}
+.the-un-challenge_6 {
+  top: 40%;
+  left: 62.3%;
+}
+.the-un-challenge_7 {
+  top: 20%;
+  left: 62.3%;
+}

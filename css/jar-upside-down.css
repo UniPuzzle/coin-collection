@@ -1,0 +1,46 @@
+/* =========y-upside-down========= */
+.jar-upside-down-img-src_1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/bitcoin.png);
+}
+
+.jar-upside-down_1 {
+  top: 13%;
+  left: 25.5%;
+}
+
+.jar-upside-down_2 {
+  top: 13%;
+  left: 50.5%;
+}
+.jar-upside-down_3 {
+  top: 33%;
+  left: 25.5%;
+}
+.jar-upside-down_4 {
+  top: 33%;
+  left: 50.5%;
+}
+.jar-upside-down_5 {
+  top: 50%;
+  left: 63%;
+}
+.jar-upside-down_6 {
+  top: 67%;
+  left: 50.5%;
+}
+.jar-upside-down_7 {
+  top: 67%;
+  left: 25.5%;
+}
+.jar-upside-down_8 {
+  top: 50%;
+  left: 13%;
+}

@@ -1,0 +1,40 @@
+.the-mg-coin-puzzle-img-src_1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/coin.png);
+}
+
+.the-mg-coin-puzzle_1 {
+  top: 20%;
+  left: 15.7%;
+}
+.the-mg-coin-puzzle_2 {
+  top: 40%;
+  left: 15.7%;
+}
+.the-mg-coin-puzzle_3 {
+  top: 60%;
+  left: 15.7%;
+}
+.the-mg-coin-puzzle_4 {
+  top: 30%;
+  left: 37.5%;
+}
+.the-mg-coin-puzzle_5 {
+  top: 20%;
+  left: 59%;
+}
+.the-mg-coin-puzzle_6 {
+  top: 40%;
+  left: 59%;
+}
+.the-mg-coin-puzzle_7 {
+  top: 60%;
+  left: 59%;
+}

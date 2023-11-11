@@ -1,0 +1,44 @@
+.expand-the-bracelet-img-src_1::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/coin.png);
+}
+
+.expand-the-bracelet_1 {
+  top: 22.7%;
+  left: 12.5%;
+}
+.expand-the-bracelet_2 {
+  top: 22.7%;
+  left: 37.5%;
+}
+.expand-the-bracelet_3 {
+  top: 22.7%;
+  left: 62.3%;
+}
+.expand-the-bracelet_4 {
+  top: 40%;
+  left: 25%;
+}
+.expand-the-bracelet_5 {
+  top: 40%;
+  left: 50%;
+}
+.expand-the-bracelet_6 {
+  top: 57.5%;
+  left: 12.5%;
+}
+.expand-the-bracelet_7 {
+  top: 57.5%;
+  left: 37.5%;
+}
+.expand-the-bracelet_8 {
+  top: 57.5%;
+  left: 62.2%;
+}

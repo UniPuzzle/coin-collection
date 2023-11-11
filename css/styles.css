@@ -1,4 +1,17 @@
 /* ==========itr_coin_wrap============= */
+.line1 {
+  top: 50%;
+  width: 100%;
+  position: absolute;
+  outline: 1px dotted rgb(255, 255, 255);
+}
+.line2 {
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  outline: 1px dotted rgb(255, 255, 255);
+  rotate: 0deg;
+}
 .wrap {
   display: flex;
   flex-wrap: wrap;
@@ -23,8 +36,8 @@ p {
   display: flex;
   width: 120px;
   height: 150px;
-  /* background-color: red; */
-  background-color: #273763;
+  background-color: red;
+  /* background-color: #273763; */
   margin-left: auto;
   margin-right: auto;
   position: relative;
